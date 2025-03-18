@@ -1,0 +1,9 @@
+git add .  >> all files added to staging area 
+
+git commit -m "my first commit
+
+git clone  <repository url> for cloning repository from github
+
+git pull
+
+git switch newbranch
